@@ -5,7 +5,7 @@
   "manifestURI": "https://raw.githubusercontent.com/Thekingcrusher/seanime-plugins/refs/heads/main/subtitle-engine/manifest.json",
   "language": "typescript",
   "type": "plugin",
-  "description": "Add subtitles of your prefered language and format scraped from multiple different sources to your current session.",
+  "description": "Add subtitles of your preferred language and format scraped from multiple different sources to your current session.",
   "author": "Thekingcrusher",
   "icon": "https://raw.githubusercontent.com/Thekingcrusher/seanime-plugins/refs/heads/main/subtitle-engine/icon.png",
   "lang": "multi",
